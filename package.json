@@ -52,8 +52,11 @@
     "link-preview-js": "^3.2.0",
     "moment-timezone": "^0.5.33",
     "node-webpmux": "^3.2.1",
+    "node-fetch": "*",
     "pdfkit": "^0.17.2",
-    "syntax-error": "^1.4.0"
+    "syntax-error": "^1.4.0",
+    "wa-sticker-formatter": "*",
+    "yt-search": "*"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
